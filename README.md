@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![profile views](https://komarev.com/ghpvc/?username=bayazidsustami)
+
+![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayazidsustami&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayazidsustami&layout=compact&theme=dark)
