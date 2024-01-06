@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![profile views](https://komarev.com/ghpvc/?username=bayazidsustami)
 
-![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayazidsustami&count_private=true&show_icons=true&theme=dark)
+![Bayazid Sustami's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayazidsustami&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayazidsustami&layout=compact&theme=dark)
+
+![Bayazid Sustami's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayazidsustami&custom_title=Bayazid%20Sustami's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
