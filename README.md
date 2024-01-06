@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=bayazid+sustami">「 Google Me 」</a>
+    <br>
+    「 I am a Android Engineer from <b>Makassar, Indonesia</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
 ![profile views](https://komarev.com/ghpvc/?username=bayazidsustami)
 
 ![Bayazid Sustami's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayazidsustami&count_private=true&show_icons=true&theme=dark)
